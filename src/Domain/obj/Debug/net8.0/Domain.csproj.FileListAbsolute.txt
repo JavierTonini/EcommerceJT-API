@@ -1,0 +1,33 @@
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Domain\obj\Debug\net8.0\ref\Domain.dll

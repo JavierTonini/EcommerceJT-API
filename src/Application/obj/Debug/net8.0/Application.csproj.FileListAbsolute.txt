@@ -1,0 +1,45 @@
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\bin\Debug\net8.0\Application.deps.json
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\bin\Debug\net8.0\Application.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\bin\Debug\net8.0\Application.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\bin\Debug\net8.0\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\bin\Debug\net8.0\Domain.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\obj\Debug\net8.0\Application.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\obj\Debug\net8.0\Application.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\Trabajo Practico Integrador\src\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\bin\Debug\net8.0\Application.deps.json
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\bin\Debug\net8.0\Application.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\bin\Debug\net8.0\Application.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\bin\Debug\net8.0\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\bin\Debug\net8.0\Domain.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\obj\Debug\net8.0\Application.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\obj\Debug\net8.0\Application.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\src\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\bin\Debug\net8.0\Application.deps.json
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\bin\Debug\net8.0\Application.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\bin\Debug\net8.0\Application.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\bin\Debug\net8.0\Domain.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\bin\Debug\net8.0\Domain.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\obj\Debug\net8.0\Application.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\obj\Debug\net8.0\Application.pdb
+C:\Javi\Tup fac\2do finalll\Programacion 3\EcommerceJT\EcommerceJT-API\src\Application\obj\Debug\net8.0\ref\Application.dll
